@@ -1,0 +1,264 @@
+{
+ "date": "2026-11-26",
+ "title": "Wrong-way crash on Sunset Highway kills one early Thanksgiving morning",
+ "dek": "Plus the county board's Tuesday agenda (a $1.2 million match to replace the 170th Avenue bridge over Beaverton Creek, a Sherwood land sale), Beaverton's hotel-tax vote, a menorah lighting in City Park, and up to 2½ inches of rain by Saturday morning.",
+ "top": [
+  {
+   "section": "Public safety",
+   "title": "One dead, two critically hurt in wrong-way crash on Highway 26"
+  },
+  {
+   "section": "Schools",
+   "title": "No school closures or delays reported"
+  },
+  {
+   "section": "Openings, closings & new businesses",
+   "title": "No change from yesterday"
+  },
+  {
+   "section": "Development & land use",
+   "title": "County to put up $1.2 million toward a new 170th Avenue bridge over Beaverton Creek"
+  },
+  {
+   "section": "Around town",
+   "title": "Menorah lighting set for Beaverton City Park"
+  }
+ ],
+ "sections": [
+  {
+   "name": "🚨 Public safety",
+   "count": 2,
+   "cards": []
+  },
+  {
+   "name": "🏫 Schools",
+   "count": 1,
+   "cards": []
+  },
+  {
+   "name": "🍽️ Openings, closings & new businesses",
+   "count": 2,
+   "cards": []
+  },
+  {
+   "name": "🏗️ Development & land use",
+   "count": 3,
+   "cards": []
+  },
+  {
+   "name": "🎄 Around town",
+   "count": 3,
+   "cards": []
+  },
+  {
+   "name": "🏛️ Coming up in local government",
+   "count": 0,
+   "cards": [
+    {
+     "kicker": "What They'll Decide · Tue Dec 1",
+     "headline": "County board to sell surplus Sherwood land, back a new 170th Avenue bridge, and close Stringtown Road for six weeks"
+    },
+    {
+     "kicker": "What They'll Decide · Wed Dec 2",
+     "headline": "County Planning Commission: a work session, no hearings"
+    }
+   ]
+  },
+  {
+   "name": "🌲 The Valley Today",
+   "count": 1,
+   "cards": []
+  },
+  {
+   "name": "🌧️ Weather",
+   "count": 1,
+   "cards": []
+  }
+ ],
+ "coming_up": [
+  {
+   "government": "City of Beaverton",
+   "body": "City Council",
+   "date": "2026-12-01",
+   "when": "upcoming",
+   "link": "https://beaverton.community.highbond.com/Portal/MeetingInformation.aspx?Id=279"
+  },
+  {
+   "government": "Washington County",
+   "body": "Board of County Commissioners (BCC)",
+   "date": "2026-12-01",
+   "when": "upcoming",
+   "link": "https://washingtoncounty.civicweb.net/Portal/MeetingInformation.aspx?Id=13315"
+  },
+  {
+   "government": "Washington County",
+   "body": "Housing Authority Board of Directors",
+   "date": "2026-12-01",
+   "when": "upcoming",
+   "link": "https://washingtoncounty.civicweb.net/Portal/MeetingInformation.aspx?Id=13314"
+  },
+  {
+   "government": "City of Beaverton",
+   "body": "Planning Commission",
+   "date": "2026-12-02",
+   "when": "upcoming",
+   "link": "https://beaverton.community.highbond.com/Portal/MeetingInformation.aspx?Id=289"
+  },
+  {
+   "government": "Washington County",
+   "body": "Planning Commission",
+   "date": "2026-12-02",
+   "when": "upcoming",
+   "link": "https://washingtoncounty.civicweb.net/Portal/MeetingInformation.aspx?Id=13412"
+  },
+  {
+   "government": "Washington County",
+   "body": "Washington County Coordinating Committee - Transportation Advisory Committee (WCCC-TAC)",
+   "date": "2026-12-03",
+   "when": "upcoming",
+   "link": "https://washingtoncounty.civicweb.net/Portal/MeetingInformation.aspx?Id=13367"
+  }
+ ],
+ "recently_met": [
+  {
+   "government": "Washington County",
+   "body": "Public Safety Coordinating Council",
+   "date": "2026-11-20",
+   "when": "recent",
+   "link": "https://washingtoncounty.civicweb.net/Portal/MeetingInformation.aspx?Id=13761"
+  },
+  {
+   "government": "Washington County",
+   "body": "Land Use Hearings",
+   "date": "2026-11-19",
+   "when": "recent",
+   "link": "https://washingtoncounty.civicweb.net/Portal/MeetingInformation.aspx?Id=13509"
+  },
+  {
+   "government": "Washington County",
+   "body": "Homeless Solutions Advisory Council",
+   "date": "2026-11-19",
+   "when": "recent",
+   "link": "https://washingtoncounty.civicweb.net/Portal/MeetingInformation.aspx?Id=13340"
+  },
+  {
+   "government": "Washington County",
+   "body": "Aging and Veteran Services Advisory Council",
+   "date": "2026-11-19",
+   "when": "recent",
+   "link": "https://washingtoncounty.civicweb.net/Portal/MeetingInformation.aspx?Id=13759"
+  },
+  {
+   "government": "Washington County",
+   "body": "WCCLS Executive Board (Cooperative Library Services)",
+   "date": "2026-11-18",
+   "when": "recent",
+   "link": "https://washingtoncounty.civicweb.net/Portal/MeetingInformation.aspx?Id=13581"
+  }
+ ],
+ "openings": {
+  "new_businesses": 242,
+  "liquor_applications": [],
+  "non_renewals": [
+   {
+    "name": "PORTLAND CIDER CO",
+    "type": "WINERY - CONSUMPTION ADDITIONAL LOCATION",
+    "address": "4005 SW ORBIT ST BEAVERTON OR  97005-2072",
+    "expires": "2027-03-31"
+   },
+   {
+    "name": "RIDGEWALKER BREWING COMPANY",
+    "type": "BREWERY PUBLIC HOUSE ADDITIONAL LOCATION",
+    "address": "1921 21ST AVE FOREST GROVE OR  97116-1637",
+    "expires": "2027-03-31"
+   },
+   {
+    "name": "DAUNTLESS WINE COMPANY",
+    "type": "WINERY - CONSUMPTION ADDITIONAL LOCATION",
+    "address": "2003 MAIN ST # 2, FOREST GROVE OR  97116-2334",
+    "expires": "2027-03-31"
+   },
+   {
+    "name": "DAUNTLESS WINE COMPANY",
+    "type": "WINERY - CONSUMPTION ADDITIONAL LOCATION",
+    "address": "6505 SW OLD HIGHWAY 47 BLDG 1, GASTON OR  97119-9063",
+    "expires": "2027-03-31"
+   },
+   {
+    "name": "XPLORE PDX",
+    "type": "FULL ON-PREMISES SALES - COMMERCIAL",
+    "address": "16365 NW TWIN OAKS DR BEAVERTON OR  97006",
+    "expires": "2026-12-31"
+   }
+  ]
+ },
+ "development": [
+  {
+   "title": "LU22026-00827 Scholls Ferry Apts Tree Plan Extension",
+   "updated": "2026-11-13",
+   "nac": "Neighbors Southwest"
+  },
+  {
+   "title": "APP2026-00898 Appeal of Director's Decision to Approve Kaiser Auto Storage Yard Design Review Two",
+   "updated": "2026-11-05",
+   "nac": "Central Beaverton"
+  },
+  {
+   "title": "LU42026-00707 Code Maintenance 2026",
+   "updated": "2026-10-28",
+   "nac": "Citywide Projects"
+  }
+ ],
+ "valley": {
+  "climate": {
+   "issued": "2026-11-26T11:41:00+00:00",
+   "yesterday_high": "53",
+   "yesterday_low": "46",
+   "normal_high": "51",
+   "normal_low": "39",
+   "record_high": "63",
+   "record_high_year": "1977",
+   "rain_yesterday": "0.02",
+   "rain_month": "2.54",
+   "rain_month_normal": "4.44",
+   "rain_water_year": "4.58",
+   "rain_water_year_normal": "7.86",
+   "rain_water_year_departure": "-3.28"
+  },
+  "fanno_creek": {
+   "flow_cfs": "199",
+   "as_of": "2026-11-26T08:45:00.000-08:00",
+   "stage_ft": "4.33"
+  },
+  "air": {
+   "us_aqi": 33,
+   "pm2_5": 3.4,
+   "as_of": "2026-11-26T09:00"
+  },
+  "sun": {
+   "sunrise": "07:24",
+   "sunset": "16:31",
+   "daylight_hours": 9.11
+  }
+ },
+ "forecast": [
+  {
+   "name": "Thanksgiving Day",
+   "forecast": "Rain. Cloudy. High near 57, with temperatures falling to around 55 in the afternoon. South wind around 7 mph. Chance of precipitation is 80%. New rainfall amounts between a half and three quarters of an inch possible."
+  },
+  {
+   "name": "Tonight",
+   "forecast": "Rain. Cloudy. Low around 48, with temperatures rising to around 50 overnight. South wind 0 to 3 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+  }
+ ],
+ "numbers": {
+  "sources_ok": 25,
+  "sources": 25,
+  "news_scanned": 197,
+  "flashalert_scanned": 371,
+  "meetings_tracked": 12,
+  "dev_projects": 454,
+  "new_businesses": 242,
+  "capital_in_progress": 40
+ }
+}
