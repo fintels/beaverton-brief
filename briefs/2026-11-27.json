@@ -1,0 +1,248 @@
+{
+ "date": "2026-11-27",
+ "title": "Tualatin Valley water bills among the steepest increases in the country over a decade",
+ "dek": "Plus Winter Lights in Beaverton City Park through early January, where to cut a Christmas tree, Glencoe's Columbia Cup win, and a busy Dec. 1 for the city council and county board.",
+ "top": [
+  {
+   "section": "Schools",
+   "title": "No school closures or delays reported"
+  },
+  {
+   "section": "Openings, closings & new businesses",
+   "title": "No change in liquor licenses"
+  },
+  {
+   "section": "Development & land use",
+   "title": "Car-storage yard appeal goes to the Planning Commission Wednesday"
+  },
+  {
+   "section": "Around town",
+   "title": "Water bills have spiked for Tualatin Valley and Portland residents"
+  },
+  {
+   "section": "Sports",
+   "title": "Glencoe coach talks Columbia Cup win"
+  }
+ ],
+ "sections": [
+  {
+   "name": "🏫 Schools",
+   "count": 1,
+   "cards": []
+  },
+  {
+   "name": "🍽️ Openings, closings & new businesses",
+   "count": 2,
+   "cards": []
+  },
+  {
+   "name": "🏗️ Development & land use",
+   "count": 3,
+   "cards": []
+  },
+  {
+   "name": "🎄 Around town",
+   "count": 5,
+   "cards": []
+  },
+  {
+   "name": "🏛️ Coming up in local government",
+   "count": 0,
+   "cards": []
+  },
+  {
+   "name": "⚽ Sports",
+   "count": 1,
+   "cards": []
+  },
+  {
+   "name": "🌲 The Valley Today",
+   "count": 1,
+   "cards": []
+  },
+  {
+   "name": "🌧️ Weather",
+   "count": 1,
+   "cards": []
+  }
+ ],
+ "coming_up": [
+  {
+   "government": "City of Beaverton",
+   "body": "City Council",
+   "date": "2026-12-01",
+   "when": "upcoming",
+   "link": "https://beaverton.community.highbond.com/Portal/MeetingInformation.aspx?Id=279"
+  },
+  {
+   "government": "Washington County",
+   "body": "Board of County Commissioners (BCC)",
+   "date": "2026-12-01",
+   "when": "upcoming",
+   "link": "https://washingtoncounty.civicweb.net/Portal/MeetingInformation.aspx?Id=13315"
+  },
+  {
+   "government": "Washington County",
+   "body": "Housing Authority Board of Directors",
+   "date": "2026-12-01",
+   "when": "upcoming",
+   "link": "https://washingtoncounty.civicweb.net/Portal/MeetingInformation.aspx?Id=13314"
+  },
+  {
+   "government": "City of Beaverton",
+   "body": "Planning Commission",
+   "date": "2026-12-02",
+   "when": "upcoming",
+   "link": "https://beaverton.community.highbond.com/Portal/MeetingInformation.aspx?Id=289"
+  },
+  {
+   "government": "Washington County",
+   "body": "Planning Commission",
+   "date": "2026-12-02",
+   "when": "upcoming",
+   "link": "https://washingtoncounty.civicweb.net/Portal/MeetingInformation.aspx?Id=13412"
+  },
+  {
+   "government": "Washington County",
+   "body": "Washington County Coordinating Committee - Transportation Advisory Committee (WCCC-TAC)",
+   "date": "2026-12-03",
+   "when": "upcoming",
+   "link": "https://washingtoncounty.civicweb.net/Portal/MeetingInformation.aspx?Id=13367"
+  }
+ ],
+ "recently_met": [
+  {
+   "government": "Washington County",
+   "body": "Public Safety Coordinating Council",
+   "date": "2026-11-20",
+   "when": "recent",
+   "link": "https://washingtoncounty.civicweb.net/Portal/MeetingInformation.aspx?Id=13761"
+  },
+  {
+   "government": "Washington County",
+   "body": "Land Use Hearings",
+   "date": "2026-11-19",
+   "when": "recent",
+   "link": "https://washingtoncounty.civicweb.net/Portal/MeetingInformation.aspx?Id=13509"
+  },
+  {
+   "government": "Washington County",
+   "body": "Homeless Solutions Advisory Council",
+   "date": "2026-11-19",
+   "when": "recent",
+   "link": "https://washingtoncounty.civicweb.net/Portal/MeetingInformation.aspx?Id=13340"
+  },
+  {
+   "government": "Washington County",
+   "body": "Aging and Veteran Services Advisory Council",
+   "date": "2026-11-19",
+   "when": "recent",
+   "link": "https://washingtoncounty.civicweb.net/Portal/MeetingInformation.aspx?Id=13759"
+  }
+ ],
+ "openings": {
+  "new_businesses": 242,
+  "liquor_applications": [],
+  "non_renewals": [
+   {
+    "name": "PORTLAND CIDER CO",
+    "type": "WINERY - CONSUMPTION ADDITIONAL LOCATION",
+    "address": "4005 SW ORBIT ST BEAVERTON OR  97005-2072",
+    "expires": "2027-03-31"
+   },
+   {
+    "name": "RIDGEWALKER BREWING COMPANY",
+    "type": "BREWERY PUBLIC HOUSE ADDITIONAL LOCATION",
+    "address": "1921 21ST AVE FOREST GROVE OR  97116-1637",
+    "expires": "2027-03-31"
+   },
+   {
+    "name": "DAUNTLESS WINE COMPANY",
+    "type": "WINERY - CONSUMPTION ADDITIONAL LOCATION",
+    "address": "2003 MAIN ST # 2, FOREST GROVE OR  97116-2334",
+    "expires": "2027-03-31"
+   },
+   {
+    "name": "DAUNTLESS WINE COMPANY",
+    "type": "WINERY - CONSUMPTION ADDITIONAL LOCATION",
+    "address": "6505 SW OLD HIGHWAY 47 BLDG 1, GASTON OR  97119-9063",
+    "expires": "2027-03-31"
+   },
+   {
+    "name": "XPLORE PDX",
+    "type": "FULL ON-PREMISES SALES - COMMERCIAL",
+    "address": "16365 NW TWIN OAKS DR BEAVERTON OR  97006",
+    "expires": "2026-12-31"
+   }
+  ]
+ },
+ "development": [
+  {
+   "title": "LU22026-00827 Scholls Ferry Apts Tree Plan Extension",
+   "updated": "2026-11-13",
+   "nac": "Neighbors Southwest"
+  },
+  {
+   "title": "APP2026-00898 Appeal of Director's Decision to Approve Kaiser Auto Storage Yard Design Review Two",
+   "updated": "2026-11-05",
+   "nac": "Central Beaverton"
+  },
+  {
+   "title": "LU42026-00707 Code Maintenance 2026",
+   "updated": "2026-10-28",
+   "nac": "Citywide Projects"
+  }
+ ],
+ "valley": {
+  "climate": {
+   "issued": "2026-11-27T11:43:00+00:00",
+   "yesterday_high": "58",
+   "yesterday_low": "49",
+   "normal_high": "51",
+   "normal_low": "39",
+   "record_high": "62",
+   "record_high_year": "2014",
+   "rain_yesterday": "0.67",
+   "rain_month": "3.21",
+   "rain_month_normal": "4.64",
+   "rain_water_year": "5.25",
+   "rain_water_year_normal": "8.06",
+   "rain_water_year_departure": "-2.81"
+  },
+  "fanno_creek": {
+   "flow_cfs": "116",
+   "as_of": "2026-11-27T09:45:00.000-08:00",
+   "stage_ft": "3.70"
+  },
+  "air": {
+   "us_aqi": 37,
+   "pm2_5": 18.8,
+   "as_of": "2026-11-27T10:00"
+  },
+  "sun": {
+   "sunrise": "07:26",
+   "sunset": "16:31",
+   "daylight_hours": 9.08
+  }
+ },
+ "forecast": [
+  {
+   "name": "Today",
+   "forecast": "Rain. Cloudy. High near 52, with temperatures falling to around 48 in the afternoon. North northeast wind around 2 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
+  },
+  {
+   "name": "Tonight",
+   "forecast": "A chance of rain before 8pm. Mostly cloudy, with a low around 41. North northeast wind around 1 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
+  }
+ ],
+ "numbers": {
+  "sources_ok": 25,
+  "sources": 25,
+  "news_scanned": 180,
+  "flashalert_scanned": 353,
+  "meetings_tracked": 10,
+  "dev_projects": 454,
+  "new_businesses": 242,
+  "capital_in_progress": 40
+ }
+}
